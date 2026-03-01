@@ -21,11 +21,12 @@ Academic Background
 News
 =====
 
-<div style="display: flex; justify-content: space-between; align-items: baseline; margin: 1em 0; padding: 0.5em; background: #f8f9fa; border-left: 4px solid #c300ffff;">
+<div style="display: flex; justify-content: space-between; align-items: baseline; margin: 1em 0; padding: 0.5em; border-left: 4px solid #c300ffff;">
   <strong>🥇 Honored to receive the Dean’s Commendation for Academic Excellence Award.</strong>
-  <em style="color: #6c757d;">Aug 18,2025</em>
+  <em>Aug 18, 2025</em>
 </div>
-<div style="display: flex; justify-content: space-between; align-items: baseline; margin: 1em 0; padding: 0.5em; background: #f8f9fa; border-left: 4px solid #007bff;">
-  <strong>🎓 I'm pround to share that I have completed my Master degree at The University of Queensland</strong>
-  <em style="color: #6c757d;">Jul 18,2025</em>
+<div style="display: flex; justify-content: space-between; align-items: baseline; margin: 1em 0; padding: 0.5em; border-left: 4px solid #007bff;">
+  <strong>🎓 I'm proud to share that I have completed my Master degree at The University of Queensland</strong>
+  <em>Jul 18, 2025</em>
 </div>
+
