@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 Biography
 =====
 Bowen is a PhD student in [Major name] at [University Name], [location]. His research interests lie in[研究兴趣], Currently, under the supervision of Prof. [Supervisor Name], he is exploring[研究领域]"
