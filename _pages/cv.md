@@ -22,9 +22,7 @@ Bowen Guo is currently a Master's student at The University of Queensland and is
 
 ## Highlights
 
-- Honored to receive the Dean's Commendation for Academic Excellence Award, August 18, 2025
-- Currently studying at The University of Queensland
-- Seeking potential PhD opportunities
+- 🏅Honored to receive the Dean's Commendation for Academic Excellence Award, August 18, 2025
 
 ## Notes
 
