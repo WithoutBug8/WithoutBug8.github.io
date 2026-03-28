@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "BOWEN GUO'S SITE"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Bowen Guo"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Bowen Guo"
+description              : &description "Personal website of Bowen Guo, featuring research, projects, and academic updates."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://WithoutBug8.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,6 +28,7 @@ author:
   pronouns         : "He/Him/His"
   location         : "Brisbane Australia"
   employer         : "The University of Queensland"
+  bio              : "Master's student at The University of Queensland, currently exploring potential PhD opportunities."
   uri              : # URL
   email            : "vn84t6@dukes.jmu.edu" 
 
@@ -65,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "bowen-guo-a04543369"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

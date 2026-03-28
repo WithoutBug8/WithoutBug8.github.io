@@ -7,26 +7,62 @@ redirect_from:
   - /about.html
 ---
 
-Biography
-=====
-Bowen is a PhD student in [Major name] at [University Name], [location]. His research interests lie in[研究兴趣], Currently, under the supervision of Prof. [Supervisor Name], he is exploring[研究领域]"
+<section class="home-hero">
+  <span class="home-hero__eyebrow">Academic Homepage</span>
+  <h1 class="home-hero__title">Bowen Guo</h1>
+  <p class="home-hero__lead">
+    I am currently a Master's student at The University of Queensland and am actively looking for potential PhD opportunities.
+    This website is a focused place to share my profile, interests, and ongoing work.
+  </p>
 
-Academic Background
-=====
-- *Master of Engineering Science*
-  - The University of Queensland(2025)
-- *Bachelor of Engineering*
-  - Hebei Normal University(2019)
+  <div class="quick-facts">
+    <div class="quick-facts__item">
+      <span class="quick-facts__label">Current Role</span>
+      <span class="quick-facts__value">Master's Student</span>
+    </div>
+    <div class="quick-facts__item">
+      <span class="quick-facts__label">Institution</span>
+      <span class="quick-facts__value">The University of Queensland</span>
+    </div>
+    <div class="quick-facts__item">
+      <span class="quick-facts__label">Current Focus</span>
+      <span class="quick-facts__value">Seeking PhD Opportunities</span>
+    </div>
+  </div>
+</section>
 
-News
-=====
+## About
 
-<div style="display: flex; justify-content: space-between; align-items: baseline; margin: 1em 0; padding: 0.5em; border-left: 4px solid #c300ffff;">
-  <strong>🥇 Honored to receive the Dean’s Commendation for Academic Excellence Award.</strong>
-  <em>Aug 18, 2025</em>
+I am Bowen, currently studying at The University of Queensland in Brisbane. I am interested in taking the next step into a PhD and use this site as a concise introduction to my academic profile.
+
+My experience mainly focuses on software development, including backend systems and web applications. I enjoy building practical and reliable solutions that can be applied in real-world scenarios.
+
+I will continue to update this site with more information about my work and projects over time. Thank you for your interest.
+
+## Recent News
+
+<div class="news-list">
+  <div class="news-card news-card--highlight">
+    <p class="news-card__title">Currently pursuing a Master's degree at The University of Queensland and exploring future PhD directions.</p>
+    <span class="news-card__date">Current</span>
+  </div>
 </div>
-<div style="display: flex; justify-content: space-between; align-items: baseline; margin: 1em 0; padding: 0.5em; border-left: 4px solid #007bff;">
-  <strong>🎓 I'm proud to share that I have completed my Master degree at The University of Queensland</strong>
-  <em>Jul 18, 2025</em>
-</div>
 
+<div class="icon-links" aria-label="Quick links">
+  <a class="icon-links__item" href="/cv/" aria-label="CV">
+    <i class="fas fa-file-lines" aria-hidden="true"></i>
+    <span>CV</span>
+  </a>
+  <a class="icon-links__item" href="/publications/" aria-label="Publications">
+    <i class="fas fa-book-open" aria-hidden="true"></i>
+    <span>Publications</span>
+  </a>
+  <a class="icon-links__item" href="https://github.com/WithoutBug8" aria-label="GitHub">
+    <i class="fab fa-github" aria-hidden="true"></i>
+    <span>GitHub</span>
+  </a>
+  <a class="icon-links__item" href="mailto:vn84t6@dukes.jmu.edu" aria-label="Email">
+    <i class="fas fa-envelope" aria-hidden="true"></i>
+    <span>Email</span>
+  </a>
+</div>
