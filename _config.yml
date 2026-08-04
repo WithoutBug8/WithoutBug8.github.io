@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "selfie.JPG"
   name             : "Bowen Guo(郭博文)"
   pronouns         : "He/Him/His"
-  location         : "Brisbane Australia"
-  employer         : "The University of Queensland"
-  bio              : "Master's student at The University of Queensland, currently exploring potential PhD opportunities."
+  location         : "Harrisonburg, Virginia"
+  employer         : "Center for Assessment & Research Studies, James Madison University"
+  bio              : "First-year PhD student in Graduate Psychology at James Madison University."
   uri              : # URL
   email            : "vn84t6@dukes.jmu.edu" 
 

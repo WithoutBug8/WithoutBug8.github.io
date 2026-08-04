@@ -11,39 +11,39 @@ redirect_from:
   <span class="home-hero__eyebrow">Academic Homepage</span>
   <h1 class="home-hero__title">Bowen Guo</h1>
   <p class="home-hero__lead">
-    I am currently a Master's student at The University of Queensland and am actively looking for potential PhD opportunities.
-    This website is a focused place to share my profile, interests, and ongoing work.
+    I am a first-year PhD student in the Department of Graduate Psychology at James Madison University and a recipient of a graduate assistantship at the Center for Assessment &amp; Research Studies.
+    My research explores applications of AI agents in measurement and assessment.
   </p>
 
   <div class="quick-facts">
     <div class="quick-facts__item">
       <span class="quick-facts__label">Current Role</span>
-      <span class="quick-facts__value">Master's Student</span>
+      <span class="quick-facts__value">First-Year PhD Student</span>
     </div>
     <div class="quick-facts__item">
-      <span class="quick-facts__label">Institution</span>
-      <span class="quick-facts__value">The University of Queensland</span>
+      <span class="quick-facts__label">Department</span>
+      <span class="quick-facts__value">Graduate Psychology, JMU</span>
     </div>
     <div class="quick-facts__item">
-      <span class="quick-facts__label">Current Focus</span>
-      <span class="quick-facts__value">Seeking PhD Opportunities</span>
+      <span class="quick-facts__label">Research Focus</span>
+      <span class="quick-facts__value">AI Agents in Assessment</span>
     </div>
   </div>
 </section>
 
 ## About
 
-I am Bowen, currently studying at The University of Queensland in Brisbane. I am interested in taking the next step into a PhD and use this site as a concise introduction to my academic profile.
+I am Bowen, a first-year PhD student in the Department of Graduate Psychology at James Madison University (JMU). I was awarded a graduate assistantship at the Center for Assessment &amp; Research Studies (CARS), where I conduct research under the supervision of Professor Yu Bao.
 
-My experience mainly focuses on software development, including backend systems and web applications. I enjoy building practical and reliable solutions that can be applied in real-world scenarios.
+My research focuses on the application of AI agents in measurement and assessment.
 
-I will continue to update this site with more information about my work and projects over time. Thank you for your interest.
+I received a Master of Engineering Science from The University of Queensland in July 2025. This site shares my academic profile, research interests, and ongoing work.
 
 ## Recent News
 
 <div class="news-list">
   <div class="news-card news-card--highlight">
-    <p class="news-card__title">Currently pursuing a Master's degree at The University of Queensland and exploring future PhD directions.</p>
+    <p class="news-card__title">Started my PhD in Graduate Psychology at JMU with a graduate assistantship at CARS.</p>
     <span class="news-card__date">Current</span>
   </div>
 </div>

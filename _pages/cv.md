@@ -11,12 +11,14 @@ redirect_from:
 
 ## Profile
 
-Bowen Guo is currently a Master's student at The University of Queensland and is actively exploring potential PhD opportunities. This page is intentionally concise and will be expanded as research, project, and application materials become more concrete.
+Bowen Guo is a first-year PhD student in the Department of Graduate Psychology at James Madison University. He was awarded a graduate assistantship at the Center for Assessment &amp; Research Studies (CARS), where he conducts research under the supervision of Professor Yu Bao. His research focuses on applications of AI agents in measurement and assessment.
 
 ## Education
 
+- James Madison University
+  - PhD in Graduate Psychology, current
 - The University of Queensland
-  - Master of Engineering Science, 2025
+  - Master of Engineering Science, July 2025
 - Hebei Normal University
   - Bachelor of Engineering, 2019
 
