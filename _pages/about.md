@@ -61,7 +61,7 @@ I received a Master of Engineering Science from The University of Queensland in 
     <i class="fab fa-github" aria-hidden="true"></i>
     <span>GitHub</span>
   </a>
-  <a class="icon-links__item" href="mailto:vn84t6@dukes.jmu.edu" aria-label="Email">
+  <a class="icon-links__item" href="mailto:vn84t6@jmu.edu" aria-label="Email">
     <i class="fas fa-envelope" aria-hidden="true"></i>
     <span>Email</span>
   </a>
