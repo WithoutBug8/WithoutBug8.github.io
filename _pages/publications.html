@@ -7,8 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-## Publications
+{% for category in site.publication_category %}
+  {% assign title_shown = false %}
 
-Unfortunately, I do not have any publications at the moment.
+  {% for post in site.publications reversed %}
+    {% if post.category != category[0] %}
+      {% continue %}
+    {% endif %}
 
-This page will be updated when papers, manuscripts, or other academic writing become available.
+    {% unless title_shown %}
+      <h2>{{ category[1].title }}</h2>
+      <hr>
+      {% assign title_shown = true %}
+    {% endunless %}
+
+    {% include archive-single.html %}
+  {% endfor %}
+{% endfor %}
