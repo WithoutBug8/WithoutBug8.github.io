@@ -15,16 +15,16 @@ Bowen Guo is a first-year PhD student in the Department of Graduate Psychology a
 
 ## Education
 
-- James Madison University
-  - PhD in Graduate Psychology, current
-- The University of Queensland
-  - Master of Engineering Science, July 2025
-- Hebei Normal University
+- James Madison University 🇺🇸
+  - PhD in Assessment and Measurement, current
+- The University of Queensland 🇦🇺
+  - Master of Engineering Science, 2025
+- Hebei Normal University 🇨🇳
   - Bachelor of Engineering, 2019
 
 ## Highlights
 
-- 🏅Honored to receive the Dean's Commendation for Academic Excellence Award, August 18, 2025
+- 🏅Honored to receive the Dean's Commendation for Academic Excellence Award. In the University of Queensland
 
 ## Notes
 

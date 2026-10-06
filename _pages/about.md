@@ -35,15 +35,15 @@ redirect_from:
 
 I am Bowen, a first-year PhD student in the Department of Graduate Psychology at James Madison University (JMU). I was awarded a graduate assistantship at the Center for Assessment &amp; Research Studies (CARS), where I conduct research under the supervision of Professor Yu Bao.
 
-My research focuses on the application of AI agents in measurement and assessment.
+My research focuses on the application of AI agents in measurement and assessment. I also work on topics related to natural language processing (NLP).
 
-I received a Master of Engineering Science from The University of Queensland in July 2025. This site shares my academic profile, research interests, and ongoing work.
+I received a **Master of Engineering Science** from The University of Queensland in 2025. This site shares my academic profile, research interests, and ongoing work.
 
 ## Recent News
 
 <div class="news-list">
   <div class="news-card news-card--highlight">
-    <p class="news-card__title">Started my PhD in Graduate Psychology at JMU with a graduate assistantship at CARS.</p>
+    <p class="news-card__title">Started my new journey at JMU</p>
     <span class="news-card__date">Current</span>
   </div>
 </div>
