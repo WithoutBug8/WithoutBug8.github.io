@@ -5,22 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for category in site.publication_category %}
-  {% assign title_shown = false %}
-
-  {% for post in site.publications reversed %}
-    {% if post.category != category[0] %}
-      {% continue %}
-    {% endif %}
-
-    {% unless title_shown %}
-      <h2>{{ category[1].title }}</h2>
-      <hr>
-      {% assign title_shown = true %}
+<ul class="publication-list">
+  {% assign publications = site.publications | sort: 'date' | reverse %}
+  {% for post in publications %}
+    {% unless post.published == false %}
+      {% assign paper_link = post.link | default: post.paperurl %}
+      <li class="publication-item">
+        <h2 class="publication-title">
+          {% if paper_link %}
+            <a href="{{ paper_link | escape }}">{{ post.title | escape }}</a>
+          {% else %}
+            {{ post.title | escape }}
+          {% endif %}
+        </h2>
+        {% if post.authors %}<p class="publication-authors">{{ post.authors }}</p>{% endif %}
+      </li>
     {% endunless %}
-
-    {% include archive-single.html %}
   {% endfor %}
-{% endfor %}
+</ul>

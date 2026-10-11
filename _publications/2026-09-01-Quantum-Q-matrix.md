@@ -8,6 +8,9 @@ venue: "arXiv preprint arXiv:2609.01537"
 excerpt: "This work introduces a quantum sparse autoencoder for data-driven Q-matrix estimation and evaluates its accuracy and stability on simulated and real-world assessment datasets."
 link: "https://arxiv.org/abs/2609.01537"
 paperurl: "https://arxiv.org/pdf/2609.01537"
+authors: >-
+  Arif Hassan Zidan, Yi Pan, <strong>Bowen Guo</strong>, Xiang Li, Yu Bao,
+  Yingfeng Wang, Tianming Liu, and Wei Zhang.
 citation: >-
   Arif Hassan Zidan, Yi Pan, <strong>Bowen Guo</strong>, Xiang Li, Yu Bao,
   Yingfeng Wang, Tianming Liu, and Wei Zhang. (2026). &quot;Quantum Sparse

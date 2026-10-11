@@ -14,6 +14,11 @@ var $hlinks = $('#site-nav .hidden-links');
 var breaks = [];
 
 function updateNav() {
+  // A static navigation has no overflow menu; only sync the fixed header offset.
+  if (!$btn.length) {
+    $('body').css('padding-top', $('.masthead').height() + 'px');
+    return;
+  }
 
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
