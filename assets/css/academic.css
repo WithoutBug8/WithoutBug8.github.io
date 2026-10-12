@@ -7,9 +7,9 @@
   --academic-faint: #8b929b;
   --academic-line: #e5e4db;
   --academic-frame: #d4d3c8;
-  --academic-accent: #0e8aa0;
-  --academic-hover: #2563eb;
-  --academic-tint: rgba(14, 138, 160, .09);
+  --academic-accent: #7040d5;
+  --academic-hover: #5426ae;
+  --academic-tint: rgba(112, 64, 213, .09);
   --academic-dot: rgba(0, 0, 0, .05);
   --academic-nav: rgba(244, 244, 239, .85);
   --global-bg-color: var(--academic-bg);
@@ -33,9 +33,9 @@ html[data-theme="dark"] {
   --academic-faint: #5d6670;
   --academic-line: #1e242b;
   --academic-frame: #2b333c;
-  --academic-accent: #6cd6e6;
-  --academic-hover: #8fb4ff;
-  --academic-tint: rgba(108, 214, 230, .10);
+  --academic-accent: #b58aff;
+  --academic-hover: #cfb2ff;
+  --academic-tint: rgba(181, 138, 255, .10);
   --academic-dot: rgba(255, 255, 255, .022);
   --academic-nav: rgba(10, 12, 15, .82);
   color-scheme: dark;
